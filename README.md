@@ -4,4 +4,6 @@ A design and thermo-mechanical analysis of CERN's SPS TIDVG5 has been carried ou
 
 A heat deposition model based on hadronic shower theory is used as an alternative to FLUKA Monte Carlo simulation.
 
+<img width="1800" height="600" alt="SPS_TIDVG5_heat_deposition" src="https://github.com/user-attachments/assets/909c7d7d-6a7f-4c27-92c7-546bce874c22" />
+
 
