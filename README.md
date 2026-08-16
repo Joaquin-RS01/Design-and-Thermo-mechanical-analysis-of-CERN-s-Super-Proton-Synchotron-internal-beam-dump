@@ -2,7 +2,7 @@
 
 A design and thermo-mechanical analysis of CERN's SPS TIDVG5 has been carried out with the use of 3D CAD software and ANSYS Mechanical for FEA simulations. The project is based in the paper "Design and early operation of a new-generation internal beam dump for CERN’s Super Proton Synchrotron" by A. Romero Francia et al. (DOI: 10.1103/PhysRevAccelBeams.27.043001).
 
-A heat deposition model based on hadronic shower theory is used as an alternative to FLUKA Monte Carlo simulation. The script gives the heat generation values that are introduced in ANSYS as boundary condition. In the following figure, these results can be seen for a thermal beam power or 270 kW, which corresponds to the worst-case scenario.
+A heat deposition model based on hadronic shower theory is used as an alternative to FLUKA Monte Carlo simulation. The script gives the heat generation values that are introduced in ANSYS as boundary conditions. In the following figure, these results can be seen for a thermal beam power of 270 kW, which corresponds to the worst-case scenario.
 
 <img width="1800" height="600" alt="SPS_TIDVG5_heat_deposition" src="https://github.com/user-attachments/assets/909c7d7d-6a7f-4c27-92c7-546bce874c22" />
 
@@ -12,7 +12,7 @@ Boundary Conditions:
 
 <img width="1491" height="594" alt="image" src="https://github.com/user-attachments/assets/c9ed24f2-49eb-4a99-9f9a-5b28f1cba811" />
 
-Temperature Field:
+Temperature Field (ºC):
 
 <img width="1494" height="584" alt="image" src="https://github.com/user-attachments/assets/8a8356fa-3fc3-42e8-a84f-78b76ff3d111" />
 
